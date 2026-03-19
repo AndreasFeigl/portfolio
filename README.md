@@ -5,7 +5,7 @@
 - <b>ArcGIS Online WebApp</b>
   - [City of Miami Beach Sea Level Rise, Risk of flooding](https://univie.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=9534b86d7dd2422893843835b557906c)
 - <b>Habitat Suitability Analysis </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Rock ptarmigan, Lagopus Muta](https://github.com/AndreasFeigl/portfolio/blob/Habitat-suitability-model/Habitats_rockptarmigan_npht_AF.pdf) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
