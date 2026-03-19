@@ -1,10 +1,10 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/andreas-feigl-9391bb3b7/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Andi! <br/><a href="https://www.linkedin.com/in/andreas-feigl-9391bb3b7/">Ecologist with espertise in GIS Analysis</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>ArcGIS Online WebApp</b>
   - [City of Miami Beach Sea Level Rise, Risk of flooding](https://univie.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=9534b86d7dd2422893843835b557906c)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Habitat Suitability Analysis </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
