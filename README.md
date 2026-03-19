@@ -5,18 +5,7 @@
 - <b>ArcGIS Online WebApp</b>
   - [City of Miami Beach Sea Level Rise, Risk of flooding](https://univie.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=9534b86d7dd2422893843835b557906c)
 - <b>Habitat Suitability Analysis </b>
-  - [Rock ptarmigan, Lagopus Muta](https://github.com/AndreasFeigl/portfolio/blob/Habitat-suitability-model/Habitats_rockptarmigan_npht_AF.pdf) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Rock ptarmigan](https://github.com/AndreasFeigl/portfolio/blob/Habitat-suitability-model/Habitats_rockptarmigan_npht_AF.pdf) <b><i>(Lagopus Muta)</b></i>
 
 <h2>📺 Popular YouTube Videos</h2>
 
