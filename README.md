@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andi! <br/><a href="https://www.linkedin.com/in/andreas-feigl-9391bb3b7/">Ecologist with espertise in GIS Analysis</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>ArcGIS Online WebApp</b>
   - [City of Miami Beach Sea Level Rise, Risk of flooding](https://univie.maps.arcgis.com/apps/instant/3dviewer/index.html?appid=9534b86d7dd2422893843835b557906c)
