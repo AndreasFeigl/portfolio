@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andi! <br/><a href="https://www.linkedin.com/in/andreas-feigl-9391bb3b7/">Ecologist with espertise in GIS Analysis</a></h1>
+<h1>Hi, I'm Andi! <br/><a href="https://www.linkedin.com/in/andreas-feigl-9391bb3b7/">Ecologist with expertise in GIS Analysis</a></h1>
 
 <h2>Projects:</h2>
 
